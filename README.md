@@ -1,7 +1,7 @@
 # Conversor USD para BRL - REACT JS
 
 <p>
-  <img src="../gif/conversor.gif">
+  <img src="../gif/conversor.gif"/>
 </p>
 <br>
 
