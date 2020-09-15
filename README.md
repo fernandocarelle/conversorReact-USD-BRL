@@ -1,6 +1,6 @@
 # Conversor de moeda USD para BRL - REACT JS
 
-##### [Live Demo](https://ecstatic-kilby-3111f2.netlify.app)
+##### [Live Demo](https://ecstatic-kilby-3111f2.netlify.app) :point_left:
 
 <br>
 <p>
