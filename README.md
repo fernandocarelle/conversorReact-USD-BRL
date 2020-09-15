@@ -1,5 +1,8 @@
 # Conversor USD para BRL - REACT JS
 
+##### [Live Demo](https://ecstatic-kilby-3111f2.netlify.app)
+
+<br>
 <p>
   <img width="600" src="./gif/conversor.gif">
 </p>
@@ -12,7 +15,7 @@ https://free.currencyconverterapi.com/
 
 ### Run the Project
 
-+ Clone this repo `https://github.com/fernandocarelle/react-weatherApp.git`
++ Clone this repo `https://github.com/fernandocarelle/conversorReact-USD-BRL.git`
 + `cd conversor-moeda`
 + run `npm install`
 + Get your API key from https://free.currencyconverterapi.com/
